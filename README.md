@@ -56,9 +56,13 @@ GUI will prompt us to refresh our view.
 ## To use EzLog4J:
 
 (1) Download the latest .zip file for your operating system
+
 (2) Uncompress the zip into a folder
+
 (3) Open the folder and 
+
 (4) Click-on the 'ezlog' file
+
 (5) See './Help/installing.html' for more information
 
 
